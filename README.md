@@ -1,0 +1,2 @@
+# 50king
+GitHub Pages
